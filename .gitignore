@@ -1,27 +1,12 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-
-# Gradle files
+# Gradle
 .gradle/
 build/
+app/build/
 
-# Local configuration
+# Local config
 local.properties
 
-# Android Studio files
+# Android Studio
 .idea/
 *.iml
 
@@ -30,17 +15,12 @@ local.properties
 Thumbs.db
 
 # Build outputs
-app/build/
-
-# APK files
 *.apk
+*.log
 
-# External builds
+# Native builds
 .externalNativeBuild/
 .cxx/
 
 # Captures
 captures/
-
-# Logs
-*.log
