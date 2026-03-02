@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">InTuna Instrument Tuner</string>
+
+    <string name="guitar">Guitar</string>
+    <string name="bass">Bass</string>
+
+    <string name="note_default">-</string>
+    <string name="freq_default">0.00 Hz</string>
+
+    <string name="auto_detect">Auto Detect String</string>
+
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+
+</resources>
